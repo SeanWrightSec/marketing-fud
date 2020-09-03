@@ -9,6 +9,7 @@ While quotes or phrases from organisations will be placed here, the organisation
 * **Military grade encryption**: Yes there is such a thing as military grade encryption. It's just that it's not that special. All "military grade encryption" really means is AES-256 encryption. Something that a vast majority of devices and services support today. In fact it would be an exception for a device or service to not support this form of encryption.
 * **Bank grade encryption**: See military grade encryption (also stands for AES-128 encryption, although by some it is considered AES-256 encryption).
 * **Best in class**: Prove it! And let us be the judges of that.
+* **Next gen**: When was 1st gen? Yes, this is IT, new things happen. This is not something special.
 
 ## Phrases
 * **We take your security seriously**: This phrase is most often associated with a breach notification. Most often it carries the perception that these are merely words, attempting to downplay a bad situation. This is equivalent of the phrase "It's not you, it's me", being mentioned during a relationship breakup.
