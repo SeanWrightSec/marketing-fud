@@ -12,6 +12,7 @@ While quotes or phrases from organisations will be placed here, the organisation
 * **Next gen**: When was 1st gen? Yes, this is IT, new things happen. This is not something special.
 * **Blockchain**: Blockchain does have a use. However it is limited in its capabilities. Blockchain is not the solution to EVERYTHING! Also many services are making use of this technology, it's not any more special than something like AES-256.
 * **AI**: Artificial Intelligence. This has been around for a while. Broken down to its simplest form, it's little more than a bunch of if else statements.
+* **Zero-day**: Also known as a 0-day. This is when software has a vulnerability but not patch or fix is availble to fix the vulnerability. These are certainly a concern, however attackers are often unlikely to burn an unknown zero-day, they'll keep them for a special occassion. You are far more likely to be breached by a known vulnerablitity (and typically has a fix, but systems aren't updated), or human error (such as misconfigurations).
 
 ## Phrases
 * **We take your security seriously**: This phrase is most often associated with a breach notification. Most often it carries the perception that these are merely words, attempting to downplay a bad situation. This is equivalent of the phrase "It's not you, it's me", being mentioned during a relationship breakup. Also you uttering these words during a breach notification, explaining how you've lost my data. Not exactly a ringing endorsement for how well you take my security.
