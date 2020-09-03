@@ -1,7 +1,13 @@
 # marketing-fud
-Collection of some marketing FUD in the InfoSec industry.
+Collection of some marketing [FUD (Fear, Uncertaintity, and Doubt)](https://en.wikipedia.org/wiki/Fear%2C_uncertainty%2C_and_doubt) in the InfoSec industry.
 
 While quotes or phrases from organisations will be placed here, the organisations will be kept anonymous. Hopefully this will be a useful tool which organisations use as a reference to determine quotes or phrases which may have a negative connotation.
 
-* **We take your security seriously**: This phrase is most often associated with a breach notification. Most often it carries the perception that these are merely words, attempting to downplay a bad situation. This is equivalent of the phrase "It's not you, it's me", being mentioned during a relationship breakup.
+## Jargon
 * **Unhackable**: Nothing is unhackable!
+* **100% secure**: See unhackable.
+* **Military grade encryption**: Yes there is such a thing as military grade encryption. It's just that it's not that special. All "military grade encryption" really means is AES-256 encryption. Something that a vast majority of devices and services support today. In fact it would be an exception for a device or service to not support this form of encryption.
+* **Bank grade encryption**: See military grade encryption (also stands for AES-128 encryption, although by some it is considered AES-256 encryption).
+
+## Phrases
+* **We take your security seriously**: This phrase is most often associated with a breach notification. Most often it carries the perception that these are merely words, attempting to downplay a bad situation. This is equivalent of the phrase "It's not you, it's me", being mentioned during a relationship breakup.
