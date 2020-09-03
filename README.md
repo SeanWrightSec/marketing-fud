@@ -9,6 +9,7 @@ While quotes or phrases from organisations will be placed here, the organisation
 * **Military grade encryption**: Yes there is such a thing as military grade encryption. It's just that it's not that special. All "military grade encryption" really means is AES-256 encryption. Something that a vast majority of devices and services support today. In fact it would be an exception for a device or service to not support this form of encryption.
 * **Bank grade encryption**: See military grade encryption (also stands for AES-128 encryption, although by some it is considered AES-256 encryption).
 * **Best in class**: Prove it! And let us be the judges of that.
+* **World leader**: See best in class.
 * **Next gen**: When was 1st gen? Yes, this is IT, new things happen. This is not something special.
 * **Blockchain**: Blockchain does have a use. However it is limited in its capabilities. Blockchain is not the solution to EVERYTHING! Also many services are making use of this technology, it's not any more special than something like AES-256.
 * **AI**: Artificial Intelligence. This has been around for a while. Broken down to its simplest form, it's little more than a bunch of if else statements.
