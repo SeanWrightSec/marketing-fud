@@ -17,4 +17,4 @@ While quotes or phrases from organisations will be placed here, the organisation
 * **We take your security seriously**: This phrase is most often associated with a breach notification. Most often it carries the perception that these are merely words, attempting to downplay a bad situation. This is equivalent of the phrase "It's not you, it's me", being mentioned during a relationship breakup. Also you uttering these words during a breach notification, explaining how you've lost my data. Not exactly a ringing endorsement for how well you take my security.
 
 ## Moar FUD
-* **Bulletproof authentication**: Bulletproof glass? Sure! Bulletproof vest? Certainly! Bulketproof authentication? I'm still trying to work that one out, since authentication typically doesn't involve any firearms (to the best of my knowledge).
+* **Bulletproof authentication**: Bulletproof glass? Sure! Bulletproof vest? Certainly! Bulletproof authentication? I'm still trying to work that one out, since authentication typically doesn't involve any firearms (to the best of my knowledge).
